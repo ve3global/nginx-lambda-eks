@@ -1,1 +1,1 @@
-This directory for dockerize webapplication with nginx, for image to be pushed in ecr
+This directory is for dockerize webapplication with nginx, for image to be pushed in ecr.
